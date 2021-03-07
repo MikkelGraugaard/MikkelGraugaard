@@ -1,5 +1,6 @@
 ### Hi there, I am Mikkel Graugaard 👋
 #### Thanks for stopping by and feel free to look at my projects!
+#### I will recommend taking a look at my [portfolio](https://mikkelgraugaard.github.io/Portfolio/) for an overview
 
 - 🔭 I’m currently working on a predictive model of the stockmarket 
 - 🌱 I’m currently learning to use GitHub
