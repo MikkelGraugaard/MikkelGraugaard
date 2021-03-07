@@ -1,4 +1,4 @@
-### Hi there, I am Mikkel Graugaard 👋  
+### Hi there, I am Mikkel Graugaard 👋
 #### Thanks for stopping by!
 
 - 🔭 I’m currently working on a predictive model of the stockmarket 
